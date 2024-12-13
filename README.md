@@ -36,5 +36,5 @@ Here are some of the tools code publicly available in the github repository, inc
 
   Results of remote pulse siganls:
 
-  <img src="../../AppData/Roaming/Typora/typora-user-images/image-20241213115745039.png" alt="image-20241213115745039" style="zoom:150%;" />
+  ![remote_pulse_signals](Figs/remote_pulse_signals.png)
 
